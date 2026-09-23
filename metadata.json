@@ -1,0 +1,6 @@
+{
+  "name": "Twine",
+  "description": "Clean, minimal hosting platform to play Twine HTML branching scenarios in full screen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
